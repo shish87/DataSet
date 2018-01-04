@@ -1,0 +1,19 @@
+{
+  "name": "DataSets",
+  "version": "1.0.0",
+  "description": "Common repository for example datasets used by Vega related projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shish87/DataSet.git"
+  },
+  "author": {
+    "name": "SHISH87",
+    "url": ""
+  },
+  "devDependencies": {
+    "datalib": "^1.5.9"
+  },
+  "scripts": {
+    
+  }
+}
